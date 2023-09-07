@@ -1,0 +1,7 @@
+# mobile: 320 inch Rod on 66 inch cord with a 10 oz ball and a 30 oz ball
+# mobile is balanced
+B10 40 10
+
+top B10 240 66 80 B30
+
+B30 55 30
